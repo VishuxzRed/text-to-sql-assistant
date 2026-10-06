@@ -1,0 +1,14 @@
+# Databases (regenerated automatically / built from your uploads)
+shop.db
+custom.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and OS files
+.env
+.DS_Store
+Thumbs.db
